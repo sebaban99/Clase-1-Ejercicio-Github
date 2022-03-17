@@ -2,7 +2,7 @@
 
 EJEMPLO:
 
-Bañales Gutiérrez, Sebastián (202711) -> Usuario de GitHub: sebaban99
+Bañales Gutiérrez, Sebastián (202711) -> Usuario de GitHub: sebaban99 test
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
